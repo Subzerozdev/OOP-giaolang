@@ -1,0 +1,18 @@
+package WS1;
+
+public class WS1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public static boolean  isPrime (int n ) {
+		if (n <2) {
+			return false;
+		}
+		// else rồi đấy nên CPU đến đây, n >2
+		// kiểm tra xem trong khoảng từ 2 cho đến .... căn  (n)
+		
+	}
+}

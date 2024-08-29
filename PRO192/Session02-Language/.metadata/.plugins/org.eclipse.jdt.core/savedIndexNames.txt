@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\2111d\OneDrive\Desktop\giaolang_OOP\PRO192\Session02-Language\.metadata\.plugins\org.eclipse.jdt.core
+2096200658.index
+2425001389.index
+1865797976.index
